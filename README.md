@@ -46,16 +46,13 @@ Repositório especial do perfil com informações sobre mim e meus projetos.
 ### 📚 [Projetos-Facul](https://github.com/Isacmsm/Projetos-Facul)
 Coleção de projetos desenvolvidos durante minha formação acadêmica.
 
-## 📈 Atividade de Contribuição
-
-![snake gif](https://github.com/junesilva/junesilva/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Como me Encontrar
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isacmsm)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmsm@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacmanoelsm@gmail.com)
 
 </div>
 
