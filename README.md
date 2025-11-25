@@ -14,10 +14,10 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 
 <div align="center">
   <a href="https://github.com/Isacmsm">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isacmsm&show_icons=true&theme=transparent" />
+    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Isacmsm&show_icons=true&theme=transparent&cache_seconds=7200" />
   </a>
   <a href="https://github.com/Isacmsm">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isacmsm&layout=compact&langs_count=8&theme=transparent" />
+    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Isacmsm&layout=compact&langs_count=8&theme=transparent&cache_seconds=7200" />
   </a>
 </div>
 
@@ -25,14 +25,14 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 
 ## Main Skills
 
-- HTML, CSS, JavaScript
-- React, Node.js, Java, Python
-- Git & GitHub, Linux
+- HTML, CSS, JavaScript  
+- React, Node.js, Java, Python  
+- Git & GitHub, Linux  
 
 ## Other Interests
 
-- Reading sci-fi books
-- Reading about technology and innovation
+- Reading sci-fi books  
+- Reading about technology and innovation  
 
 ---
 
