@@ -31,7 +31,7 @@ Sou desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
 <div align="center">
   
-[[![GitHub stats](https://github-readme-stats.vercel.app/api?username=isacmsm)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=isacmsm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacmsm&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
