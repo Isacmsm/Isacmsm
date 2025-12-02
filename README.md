@@ -23,11 +23,6 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 
 ---
 
-## Main Skills
-
-- HTML, CSS, JavaScript  
-- React, Node.js, Java, Python  
-- Git & GitHub, Linux  
 
 ## Other Interests
 
