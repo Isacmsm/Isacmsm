@@ -7,7 +7,7 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,linux" />
 </div>
 
 ---
