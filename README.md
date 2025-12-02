@@ -37,6 +37,6 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 ---
 
 <div>
-  <a href="https://www.linkedin.com/in/isac-macedo-122826245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/isac-macedo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:isac.manoelsm@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
