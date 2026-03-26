@@ -14,10 +14,10 @@ Currently studying to become a fullstack developer, aiming to build modern and c
 
 <div align="center">
   <a href="https://github.com/Isacmsm">
-    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Isacmsm&show_icons=true&theme=tokyonight&cache_seconds=500&count_private=true" />
+    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Isacmsm&show_icons=true&theme=tokyonight&count_private=true" />
   </a>
   <a href="https://github.com/Isacmsm">
-    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Isacmsm&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=500&count_private=true" />
+    <img height="170" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Isacmsm&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
   </a>
 </div>
 
